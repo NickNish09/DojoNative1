@@ -1,0 +1,3 @@
+rootProject.name = 'DojoReactNative'
+
+include ':app'
